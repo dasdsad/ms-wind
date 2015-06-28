@@ -1,0 +1,1 @@
+This is a simple client-less program for Europe Maplestory, that allows Maplestory characters to be accessed, without using the conventional Maplestory client. The program provides simple tasks that can be performed.
